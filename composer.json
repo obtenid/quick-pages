@@ -1,0 +1,20 @@
+{
+  "name": "obtenid/quick-pages",
+  "description": "Laravel pages",
+  "keywords": ["laravel", "pages"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Obtenid",
+      "email": "obtenid@mail.ru"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Obtenid\\QuickPages\\": "src/"
+    }
+  },
+  "require": {
+    "laravel/framework": "^7.0"
+  }
+}

@@ -1,0 +1,1 @@
+## Quick pages for Laravel 7
