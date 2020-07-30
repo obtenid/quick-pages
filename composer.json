@@ -16,5 +16,15 @@
   },
   "require": {
     "laravel/framework": "^7.0"
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Obtenid\\QuickPages\\ServiceProvider"
+      ],
+      "aliases": {
+        "QuickPages": "Obtenid\\QuickPages\\Facade"
+      }
+    }
   }
 }
