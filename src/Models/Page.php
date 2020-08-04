@@ -12,6 +12,7 @@ use Obtenid\QuickPages\Casts\Json;
  * @property string $category
  * @property integer $parent_id
  * @property string $slug
+ * @property string $lang
  * @property string $name
  * @property string $status
  * @property string $images

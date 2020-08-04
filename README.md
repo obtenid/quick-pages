@@ -5,13 +5,7 @@
 1. Require the package using composer:
 
     ```
-    composer require jeroennoten/laravel-pages
-    ```
-
-2. Add the service provider at **the end** of the `providers` array in `config/app.php`:
-
-    ```php
-    JeroenNoten\LaravelPages\ServiceProvider::class,
+    composer require obtenid/quick-pages
     ```
 
 ## Usage
